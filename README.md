@@ -34,11 +34,11 @@ A simple console-based Student Management System written in C++. It helps manage
 
 #### On Windows (using g++):
 ```bash
-g++ CollegeManegementSystem.cpp -o cms
+g++ CollegeManagementSystem.cpp -o cms
 cms
 
 On Linux/Mac:
-g++ CollegeManegementSystem.cpp -o cms
+g++ CollegeManagementSystem.cpp -o cms
 ./cms
 
 🧠 Concepts Used
